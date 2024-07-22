@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  test-for-VK
+
+  Created by Dmitrii Imaev on 18.07.2024.
+  
+*/
+"sunny" = "Солнечно";
+"rainy" = "Дождь";
+"cloudy" = "Облачно";
+"stormy" = "Гроза";
+"snowy" = "Снег";
+

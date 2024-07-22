@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  test-for-VK
+
+  Created by Dmitrii Imaev on 18.07.2024.
+  
+*/
+"clear" = "Clear";
+"rain" = "Raing";
+"storm" = "Storm";
+"fog" = "Fog";
